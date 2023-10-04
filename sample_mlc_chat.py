@@ -1,3 +1,5 @@
+# pip install --pre --force-reinstall mlc-ai-nightly mlc-chat-nightly -f https://mlc.ai/wheels
+
 from mlc_chat import ChatModule
 from mlc_chat.callback import StreamToStdout
 
