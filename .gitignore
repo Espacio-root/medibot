@@ -1,1 +1,3 @@
 venv/
+*.log
+sample_mlc_chat.py
